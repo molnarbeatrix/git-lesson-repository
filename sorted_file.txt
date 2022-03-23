@@ -1,0 +1,4 @@
+abc
+cba
+this is a nice string
+write something

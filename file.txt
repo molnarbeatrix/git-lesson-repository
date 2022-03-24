@@ -2,3 +2,5 @@ this is a nice string
 abc
 write something
 cba
+changes
+more changes
